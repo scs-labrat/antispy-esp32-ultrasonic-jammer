@@ -1,6 +1,6 @@
 # ESP32 Ultrasonic Voice Jammer
 
-![Project Banner](./prototype.jpeg)
+![Smiley](./863-8638887_evil-smiley.png)
 
 ## Table of Contents
 
@@ -23,6 +23,7 @@ The **ESP32 Ultrasonic Voice Jammer** is a project designed to disrupt voice com
 > **Disclaimer:** This project is intended for educational and experimental purposes only. Unauthorized use to interfere with communications is illegal and unethical.
 
 ## Features
+![Project Banner](./prototype.jpeg)
 
 - **ESP32 Integration:** Utilizes the versatile ESP32 microcontroller for signal generation and control.
 - **High-Frequency Transmission:** Capable of emitting ultrasonic frequencies up to 25kHz.
@@ -126,5 +127,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 *For any questions or support, please open an issue on the [GitHub repository](https://github.com/scs-labrat/antispy-esp32-ultrasonic-voice-jammer).*
 
-![Smiley](./863-8638887_evil-smiley.png)
+
 
